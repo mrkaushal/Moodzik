@@ -1,0 +1,17 @@
+tensorflow
+numpy
+opencv-python
+pandas
+matplotlib
+Click
+Flask
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+gsutil
+tensor2tensor
+magenta
+gsutil
+
